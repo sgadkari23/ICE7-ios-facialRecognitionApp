@@ -15,6 +15,7 @@
 		689FCE12261A7CE100B0FC11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 689FCE10261A7CE100B0FC11 /* LaunchScreen.storyboard */; };
 		689FCE1D261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689FCE1C261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceTests.swift */; };
 		689FCE28261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689FCE27261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceUITests.swift */; };
+		689FCE39261A807E00B0FC11 /* saints.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 689FCE38261A807E00B0FC11 /* saints.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		689FCE23261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ICE7_ios_artificalintelligenceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		689FCE27261A7CE100B0FC11 /* ICE7_ios_artificalintelligenceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICE7_ios_artificalintelligenceUITests.swift; sourceTree = "<group>"; };
 		689FCE29261A7CE100B0FC11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		689FCE38261A807E00B0FC11 /* saints.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = saints.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				689FCE0B261A7CE000B0FC11 /* Main.storyboard */,
 				689FCE0E261A7CE100B0FC11 /* Assets.xcassets */,
 				689FCE10261A7CE100B0FC11 /* LaunchScreen.storyboard */,
+				689FCE38261A807E00B0FC11 /* saints.jpeg */,
 				689FCE13261A7CE100B0FC11 /* Info.plist */,
 			);
 			path = ICE7_ios_artificalintelligence;
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				689FCE12261A7CE100B0FC11 /* LaunchScreen.storyboard in Resources */,
+				689FCE39261A807E00B0FC11 /* saints.jpeg in Resources */,
 				689FCE0F261A7CE100B0FC11 /* Assets.xcassets in Resources */,
 				689FCE0D261A7CE000B0FC11 /* Main.storyboard in Resources */,
 			);
